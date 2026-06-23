@@ -1,0 +1,5 @@
+node_modules/
+dist/
+TBH-Tracker-Data/
+builder-debug.yml
+builder-effective-config.yaml
